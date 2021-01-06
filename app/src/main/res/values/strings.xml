@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">Steganofy</string>
+    <string name="close">Close</string>
+    <string name="error">Error &#128552;</string>
+    <string name="working">Working ..</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="plaintext">Plain text</string>
+    <string name="file">File (Image / Document / etc)</string>
+    <string name="start">Start</string>
+    <string name="encryption_none">No encryption</string>
+    <string name="encryption_aes">AES-256</string>
+    <string name="ms">%1$d ms</string>
+    <string name="total_time">Total time</string>
+    <string name="image_processing">Image processing</string>
+    <string name="statistics">Statistics:</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_confirmation">Are you sure you want to cancel?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="data">Data:</string>
+    <string name="border_text">Text</string>
+
+    <!-- Main -->
+    <string name="main_welcome">What do you want to do?</string>
+    <string name="main_reveal">Reveal</string>
+    <string name="main_hide">Hide</string>
+    <string name="main_reveal_description">Read data from an image</string>
+    <string name="main_hide_description">Write data to an image</string>
+
+    <!-- Hide -->
+    <string name="hide_input">What do you want to hide?</string>
+    <string name="hide_input_info">Select the data you want to hide. This can be either plain text or another file such as an image, document or audio file.</string>
+    <string name="hide_input_text_hint">Enter the text here ..</string>
+    <string name="hide_image">Select image to hide inside</string>
+    <string name="hide_image_info">The selected data will be hidden in this image. The image will not be visibly changed.</string>
+    <string name="hide_image_do_not_alter">Images transmitted with messaging apps that compress images (i.e. Facebook Messenger or WhatsApp) will not contain the hidden data</string>
+    <string name="hide_image_too_small">The image is not large enough to contain the desired data. Please select a larger image.</string>
+    <string name="hide_image_too_large">The image is too large. Please select an image smaller than 25 MB</string>
+    <string name="hide_settings">Settings</string>
+    <string name="hide_encryption">Encryption</string>
+    <string name="hide_encryption_info">Select if the data should be encrypted with a password. Otherwise, anyone with access to the image can extract the data.</string>
+    <string name="hide_encryption_password">Password</string>
+    <string name="hide_failed">Failed to hide the data due to an unknown error</string>
+    <string name="hide_statistics_bytes">%1$s of data were successfully hidden</string>
+    <string name="hide_statistics_hide_time">Data hiding</string>
+
+    <!-- Reveal -->
+    <string name="reveal_file">File:</string>
+    <string name="reveal_file_invalid">The file does not seem to contain any hidden data. Please select a different file.</string>
+    <string name="reveal_plaintext_copied">Text copied to clipboard</string>
+    <string name="reveal_copy_to_clipboard">Copy</string>
+    <string name="reveal_statistics_bytes">Successfully revealed %1$s of data</string>
+    <string name="reveal_statistics_reveal_time">Data revealment</string>
+    <string name="reveal_image">Reveal data from an image</string>
+    <string name="reveal_info_version">Format version</string>
+    <string name="reveal_info_type">Contained data type</string>
+    <string name="reveal_info_encryption">Encryption</string>
+    <string name="reveal_info">The image contains data. Click start to continue.</string>
+    <string name="reveal_info_encrypted">The image contains encrypted data. Please enter a password and click start to continue.</string>
+    <string name="reveal_failed">Revealment of data failed. This can have several causes:\n\n1) <b>Wrong password</b> for encrypted data\n\n2) The image contains no hidden data\n\n3) The data was hidden with a more recent version of the app</string>
+
+    <!-- File -->
+    <string name="file_save_image">Save image</string>
+    <string name="file_select_image">Select an image</string>
+    <string name="file_select">Select a file</string>
+    <string name="file_info">%1$s, %2$s</string>
+    <string name="file_saved">File successfully saved</string>
+    <string name="file_share">Share</string>
+    <string name="file_select_none">No file selected</string>
+    <string name="file_select_image_none">No image selected</string>
+
+    <!-- About -->
+    <string name="about_title">About Steganofy</string>
+    <string name="about_punchline">A simple, fast and open source image steganography app for Android.</string>
+    <string name="about_email">info@braffdev.com</string>
+    <string name="about_web">braffdev.com</string>
+    <string name="about_github">GitHub</string>
+    <string name="about_licenses"><u>Open Source Licenses</u></string>
+    <string name="about_version">Version: %1$s - Build: %2$s</string>
+    <string name="about_faq"><u>Frequently asked questions</u></string>
+</resources>

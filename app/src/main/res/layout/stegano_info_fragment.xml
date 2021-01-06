@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:background="@drawable/message_check"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/revealInfoText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/baseline_check_circle_24"
+        android:drawablePadding="10dp"
+        android:text="@string/reveal_info" />
+
+    <TableLayout
+        android:id="@+id/tableLayoutRevealInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:text="@string/reveal_info_version"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/revealInfoVersion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="V1" />
+        </TableRow>
+
+        <TableRow android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:text="@string/reveal_info_type"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/revealInfoType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Plaintext" />
+        </TableRow>
+
+        <TableRow android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="10dp"
+                android:text="@string/reveal_info_encryption"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/revealInfoEncryption"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AES-256" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

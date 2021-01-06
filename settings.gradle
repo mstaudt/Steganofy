@@ -1,0 +1,3 @@
+include ':lib-steganofy'
+include ':app'
+rootProject.name = "Steganofy"

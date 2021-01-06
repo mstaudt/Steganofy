@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme colors -->
+    <color name="colorPrimary">#0277bd</color>
+    <color name="colorPrimaryVariant">#004c8c</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorOnPrimaryVariant">#0a000000</color>
+    <color name="textColor">#FF000000</color>
+    <color name="textColorSecondary">#99000000</color>
+
+    <!-- Common colors -->
+    <color name="green_900">#1B5E20</color>
+    <color name="green_900_transparent">#111B5E20</color>
+
+    <color name="red_900">#b71c1c</color>
+    <color name="red_900_transparent">#11b71c1c</color>
+
+    <color name="light_blue_900">#01579b</color>
+    <color name="light_blue_900_transparent">#1101579b</color>
+
+</resources>

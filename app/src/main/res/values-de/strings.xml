@@ -1,0 +1,84 @@
+<resources>
+
+    <!-- Common -->
+    <string name="app_name">Steganofy</string>
+    <string name="close">Schließen</string>
+    <string name="error">Fehler &#128552;</string>
+    <string name="working">Verarbeiten ..</string>
+    <string name="previous">Zurück</string>
+    <string name="next">Weiter</string>
+    <string name="plaintext">Text</string>
+    <string name="file">Datei (Bild / Dokument / etc)</string>
+    <string name="start">Start</string>
+    <string name="encryption_none">Keine Verschlüsselung</string>
+    <string name="encryption_aes">AES-256</string>
+    <string name="ms">%1$d ms</string>
+    <string name="total_time">Gesamtzeit</string>
+    <string name="image_processing">Bildverarbeitung</string>
+    <string name="statistics">Statistik:</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cancel_confirmation">Möchten Sie wirklich abbrechen?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="data">Daten:</string>
+    <string name="border_text">Text</string>
+
+    <!-- Main -->
+    <string name="main_welcome">Was möchten Sie tun?</string>
+    <string name="main_reveal">Extrahieren</string>
+    <string name="main_hide">Verstecken</string>
+    <string name="main_reveal_description">Daten eines Bildes enthüllen</string>
+    <string name="main_hide_description">Daten in einem Bild verstecken</string>
+
+    <!-- Hide -->
+    <string name="hide_input">Was möchten Sie verstecken?</string>
+    <string name="hide_input_info">Wählen Sie die Daten aus, die Sie verstecken möchten. Dies kann entweder normaler Text oder eine andere Datei sein, z.B. ein Bild, ein Dokument oder eine Audiodatei.</string>
+    <string name="hide_input_text_hint">Text hier eingeben ..</string>
+    <string name="hide_image">Bild auswählen</string>
+    <string name="hide_image_info">Die ausgewählten Daten werden in diesem Bild versteckt. Das Bild wird dabei nicht sichtbar verändert.</string>
+    <string name="hide_image_do_not_alter">Bilder, die mit Messaging-Apps übertragen werden, die Bilder komprimieren (z. B. Facebook Messenger oder WhatsApp), werden die versteckten Daten nicht enthalten.</string>
+    <string name="hide_image_too_small">Das Bild ist nicht groß genug, um die gewünschten Daten zu enthalten. Bitte wählen Sie ein größeres Bild.</string>
+    <string name="hide_image_too_large">Das Bild ist zu groß. Bitte wählen Sie ein Bild kleiner als 25 MB</string>
+    <string name="hide_settings">Einstellungen</string>
+    <string name="hide_encryption">Verschlüsselung</string>
+    <string name="hide_encryption_info">Wählen Sie aus, ob die Daten mit einem Passwort verschlüsselt werden sollen. Andernfalls kann jeder, der Zugriff auf das Bild hat, die Daten extrahieren.</string>
+    <string name="hide_encryption_password">Passwort</string>
+    <string name="hide_failed">Das Verstecken der Daten ist aufgrund eines unbekannten Fehlers fehlgeschlagen.</string>
+    <string name="hide_statistics_bytes">%1$s an Daten wurden erfolgreich verstecken</string>
+    <string name="hide_statistics_hide_time">Datenverbergung</string>
+
+    <!-- Reveal -->
+    <string name="reveal_file">Datei:</string>
+    <string name="reveal_file_invalid">Die Datei scheint keine versteckten Daten zu enthalten. Bitte wählen Sie eine andere Datei.</string>
+    <string name="reveal_plaintext_copied">In die Zwischenablage kopiert</string>
+    <string name="reveal_copy_to_clipboard">Kopieren</string>
+    <string name="reveal_statistics_bytes">%1$s an Daten wurden erfolgreich extrahiert</string>
+    <string name="reveal_statistics_reveal_time">Datenextrahierung</string>
+    <string name="reveal_image">Daten eines Bildes extrahieren</string>
+    <string name="reveal_info_version">Formatversion</string>
+    <string name="reveal_info_type">Enthaltene Daten</string>
+    <string name="reveal_info_encryption">Verschlüsselung</string>
+    <string name="reveal_info">Das Bild enthält Daten. Klicken Sie auf Start, um fortzufahren.</string>
+    <string name="reveal_info_encrypted">Das Bild enthält verschlüsselte Daten. Bitte geben Sie ein Passwort ein und klicken Sie auf Start, um fortzufahren.</string>
+    <string name="reveal_failed">Die Enthüllung von Daten ist fehlgeschlagen. Dies kann mehrere Ursachen haben:\n\n1) <b>Falsches Passwort</b> für verschlüsselte Daten\n\n2) Das Bild enthält keine versteckten Daten\n\n3) Die Daten wurden mit einer neueren Version der App versteckt</string>
+
+    <!-- File -->
+    <string name="file_save_image">Bild speichern</string>
+    <string name="file_select_image">Bild auswählen</string>
+    <string name="file_select">Datei auswählen</string>
+    <string name="file_info">%1$s, %2$s</string>
+    <string name="file_saved">Datei erfolgreich gespeichert</string>
+    <string name="file_share">Teilen</string>
+    <string name="file_select_none">Keine Datei ausgewählt</string>
+    <string name="file_select_image_none">Kein Bild ausgewählt</string>
+
+    <!-- About -->
+    <string name="about_title">Über Steganofy</string>
+    <string name="about_punchline">Eine einfache, schnelle und quelloffene Bild-Steganografie App für Android.</string>
+    <string name="about_email">info@braffdev.com</string>
+    <string name="about_web">braffdev.com</string>
+    <string name="about_github">GitHub</string>
+    <string name="about_licenses"><u>Open Source Lizenzen</u></string>
+    <string name="about_version">Version: %1$s - Build: %2$s</string>
+    <string name="about_faq"><u>Häufig gestellte Fragen</u></string>
+</resources>

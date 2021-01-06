@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/buttonShareFile"
+        style="?attr/materialButtonOutlinedStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/file_share" />
+
+    <Button
+        android:id="@+id/buttonSaveFile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/file_save_image" />
+
+</LinearLayout>

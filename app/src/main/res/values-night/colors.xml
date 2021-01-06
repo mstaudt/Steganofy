@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme colors -->
+    <color name="colorPrimaryVariant">#000000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnPrimaryVariant">#0FFFFFFF</color>
+    <color name="textColor">#DDDDDD</color>
+    <color name="textColorSecondary">#99DDDDDD</color>
+</resources>

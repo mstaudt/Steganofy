@@ -1,0 +1,380 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108">
+            <group
+                android:name="group_background"
+                android:scaleX="7.939944"
+                android:scaleY="7.939944"
+                android:translateX="16.2"
+                android:translateY="16.332632">
+                <group android:name="bar1">
+                    <clip-path
+                        android:name="clip_path"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar1_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 4.008 -5.51 L 5.146 -4.621 L -4.009 7.097 L -5.146 6.208 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar2">
+                    <clip-path
+                        android:name="clip_path_1"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar2_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 5.075 -4.656 L 6.213 -3.767 L -2.942 7.95 L -4.079 7.061 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar3">
+                    <clip-path
+                        android:name="clip_path_2"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar3_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 5.428 -2.845 L 6.566 -1.956 L -2.589 9.761 L -3.726 8.872 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar4">
+                    <clip-path
+                        android:name="clip_path_3"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar4_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 6.566 -1.956 L 7.704 -1.067 L -1.451 10.65 L -2.589 9.761 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar5">
+                    <clip-path
+                        android:name="clip_path_4"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar5_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 7.934 -1.492 L 9.072 -0.603 L -0.083 11.114 L -1.221 10.225 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar6">
+                    <clip-path
+                        android:name="clip_path_5"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar6_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 9.371 -1.091 L 10.508 -0.202 L 1.354 11.515 L 0.216 10.626 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#00000000"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar7">
+                    <clip-path
+                        android:name="clip_path_6"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar7_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 10.122 0.195 L 11.26 1.084 L 2.105 12.801 L 0.968 11.912 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar8">
+                    <clip-path
+                        android:name="clip_path_8"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar8_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 11.843 0.328 L 12.981 1.217 L 3.826 12.935 L 2.688 12.046 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar9">
+                    <clip-path
+                        android:name="clip_path_9"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar9_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 13.63 0.379 L 14.768 1.268 L 5.613 12.985 L 4.475 12.096 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+                <group android:name="bar10">
+                    <clip-path
+                        android:name="clip_path_10"
+                        android:pathData="M 0 0 L 9.521 0 L 9.521 9.488 L 0 9.488 Z" />
+                    <path
+                        android:name="bar10_path"
+                        android:fillAlpha="0"
+                        android:fillColor="#29b6f6"
+                        android:pathData="M 13.413 2.851 L 14.551 3.74 L 5.396 15.457 L 4.258 14.568 Z"
+                        android:strokeWidth="0.04990417"
+                        android:strokeColor="#0029b6f6"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round" />
+                </group>
+            </group>
+        </vector>
+    </aapt:attr>
+
+    <!-- Background animation -->
+    <target android:name="bar1_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="500"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar2_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="250"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="750"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar3_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="500"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1000"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar4_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="750"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1250"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar5_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1000"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1500"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar6_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1250"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1750"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar7_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1500"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2000"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar8_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="1750"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2250"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar9_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2000"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2500"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="bar10_path">
+        <aapt:attr name="android:animation">
+            <set>
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:anim/accelerate_decelerate_interpolator"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2250"
+                    android:valueFrom="0"
+                    android:valueTo="0.5"
+                    android:valueType="floatType" />
+                <objectAnimator
+                    android:duration="500"
+                    android:interpolator="@android:interpolator/fast_out_slow_in"
+                    android:propertyName="fillAlpha"
+                    android:startOffset="2750"
+                    android:valueFrom="0.5"
+                    android:valueTo="0"
+                    android:valueType="floatType" />
+            </set>
+        </aapt:attr>
+    </target>
+</animated-vector>
