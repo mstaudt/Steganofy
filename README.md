@@ -3,7 +3,9 @@
 ![Logo](app/src/main/res/mipmap-hdpi/launcher.png)
 [![Get on Google Play](doc/google-play/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.braffdev.steganofy)
 
-A simple, fast and open source image steganography app for Android.
+## DEPRECATED: this project is inactive and will be deleted in the future.
+
+A simple, fast and open source image steganography app for Android.  
 
 <br/>
 
